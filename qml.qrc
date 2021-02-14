@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>sound/beep.wav</file>
+        <file>qml/TimerButton.qml</file>
+    </qresource>
+</RCC>
